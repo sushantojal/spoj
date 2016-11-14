@@ -1,2 +1,3 @@
 # spoj
-competitive coding practice
+
+http://www.spoj.com/users/olive12/
