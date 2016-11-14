@@ -1,0 +1,2 @@
+# spoj
+competitive coding practice
